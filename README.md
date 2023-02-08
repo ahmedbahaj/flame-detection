@@ -1,12 +1,14 @@
 # flame-detection
 
-<h1>-main.py</h1>
-##Implementation In Python
+# -main.pp
+## Implementation In Python
 
 Libraries such as GPIO or RPi.GPIO can be used to interface with the flame sensor, and use the smtplib library to send the email.
 
-#-main.cpp
-##Implementation In C++
+<hr>
+
+# -main.cpp
+## Implementation In C++
 
 This code uses the WiFi and WiFiClientSecure libraries to connect to a Wi-Fi network and the SmtpClient library to send an email. You would need to replace SENDER_EMAIL, SENDER_PASSWORD, RECIPIENT_EMAIL, WIFI_SSID, and WIFI_PASSWORD with the appropriate values for your setup.
 
