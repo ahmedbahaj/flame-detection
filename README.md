@@ -1,6 +1,6 @@
 # flame-detection
 
-#-main.py
+<h1>-main.py</h1>
 ##Implementation In Python
 
 Libraries such as GPIO or RPi.GPIO can be used to interface with the flame sensor, and use the smtplib library to send the email.
